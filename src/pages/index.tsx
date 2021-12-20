@@ -37,7 +37,7 @@ const LIST_OF_EMOJIS = [
 ];
 
 const Home: NextPage = () => {
-  const [favicon, setFavicon] = useState('🚀');
+  const [favicon, setFavicon] = useState('🐶');
 
   const handleRandomizeClick = () => {
     const randomEmoji =
