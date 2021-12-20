@@ -6,7 +6,7 @@
 
 ```bash
 # Clone this repo
-$ git clone <https://github.com/jpc0rrea/boilerplate-nextjs-chakraui>
+$ git clone https://github.com/jpc0rrea/boilerplate-nextjs-chakraui
 
 # Access the project folder in the terminal
 $ cd boilerplate-nextjs-chakraui
