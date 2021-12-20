@@ -90,6 +90,7 @@ const Home: NextPage = () => {
           flex="1"
           gap="4"
           align="center"
+          paddingBottom="6"
           justifyContent="space-between"
           templateColumns="repeat(auto-fill, minmax(300px , 1fr))"
         >

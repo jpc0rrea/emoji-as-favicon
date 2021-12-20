@@ -34,7 +34,7 @@ export function EmojiCard({ emoji, onClick, favicon }: EmojiCardProps) {
         }}
         onClick={onClick}
       >
-        <Heading fontSize="8xl">{emoji}</Heading>
+        <Heading fontSize="7xl">{emoji}</Heading>
       </Flex>
     </>
   );
