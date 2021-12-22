@@ -92,7 +92,7 @@ const Home: NextPage = () => {
           align="center"
           paddingBottom="6"
           justifyContent="space-between"
-          templateColumns="repeat(auto-fill, minmax(300px , 1fr))"
+          templateColumns="repeat(auto-fill, minmax(300px, 1fr))"
         >
           {LIST_OF_EMOJIS.map((emoji) => {
             return (
