@@ -1,15 +1,21 @@
-<h1 align="center">Boilerplate project with Next.js, Chakra UI, ESLint, commitlint and husky</h1>
+<h1 align="center">Emoji as favicon</h1>
 
-<p align="center">This project is intended to help developers to bootstrap projects using <a href="https://chakra-ui.com">Chakra UI</a> and <a href="https://nextjs.org/">Next.js</a>, in addition to <a href="https://www.typescriptlang.org/">Typescript</a>, <a href="https://eslint.org/">ESlint</a>, <a href="https://commitlint.js.org/#/">commitlint</a> and <a href="https://typicode.github.io/husky/#/">husky</a>
+<p align="center">This project is intended to help developers to use a emoji as favicon, so they don't spend so much time making favicons. </p>
+
+# Application preview
+[Click here](https://emoji-as-favicon.vercel.app/) to see the live preview.
+
+![emoji-as-favicon.webp](https://media4.giphy.com/media/Tv5mbLBd0JOW18RsJi/giphy.gif?cid=790b76111b532548bc017aa8ef0b749f2c463de63e61b875&rid=giphy.gif&ct=g)
+
 
 # 🚀 Run the project on your local machine
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/jpc0rrea/boilerplate-nextjs-chakraui
+$ git clone https://github.com/jpc0rrea/emoji-as-favicon
 
 # Access the project folder in the terminal
-$ cd boilerplate-nextjs-chakraui
+$ cd emoji-as-favicon
 
 # Install dependecies
 $ npm install
